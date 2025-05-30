@@ -1,4 +1,4 @@
-Difficulty,Title,Frequency,Acceptance Rate, STATUS, Link,Topics
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
 MEDIUM,Rank Teams by Votes,100.0,0.59289400427574,https://leetcode.com/problems/rank-teams-by-votes,"Array, Hash Table, String, Sorting, Counting"
 MEDIUM,Design Snake Game,87.4,0.3957593584191239,https://leetcode.com/problems/design-snake-game,"Array, Hash Table, Design, Queue, Simulation"
 MEDIUM,Stock Price Fluctuation ,82.0,0.4798714104015216,https://leetcode.com/problems/stock-price-fluctuation,"Hash Table, Design, Heap (Priority Queue), Data Stream, Ordered Set"
